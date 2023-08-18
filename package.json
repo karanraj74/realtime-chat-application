@@ -1,0 +1,16 @@
+{
+  "name": "share-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "karan raj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3"
+  }
+}
